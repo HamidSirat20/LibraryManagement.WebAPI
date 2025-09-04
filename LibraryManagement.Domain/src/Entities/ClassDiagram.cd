@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domain.src.Librarian" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAIAEEQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Librarian .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.src.Loan" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACCAAAAAAAACBEAAAAAQAAQAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Loan .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.src.Member" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAACAAAIAEUAAAAAAAAAAAAAACAAAAMAAAAAA=</HashCode>
+      <FileName>src\Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.src.Publisher" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAEAAAAAAQAgAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>src\Publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.src.Reservation" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAEgAAAAABEAAAAAQAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\Reservation .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.src.Book" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAEQgmAIAAAAAAQBAAAAAAgAAEAAAAAA=</HashCode>
+      <FileName>src\Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Domain.src.Author" Collapsed="true">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAQEiAAAAAAAgAAQAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>src\Author.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="Domain.src.Genre" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAEAAABAAAAAIAAAAAAAIAAAAAAAAAAAAACEAQAAEA=</HashCode>
+      <FileName>src\Genre.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Domain.src.Status">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>src\Status.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
